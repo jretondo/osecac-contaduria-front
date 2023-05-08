@@ -1,11 +1,11 @@
 .down {
-    animation: pulse-red 0.4s;
-    animation-iteration-count: 6;
+    animation: pulse-red 0.3s;
+    animation-iteration-count: 3;
 }
 
 .up {
-    animation: pulse-green 0.4s;
-    animation-iteration-count: 6;
+    animation: pulse-green 0.3s;
+    animation-iteration-count: 3;
 }
 
 @keyframes pulse-red {
